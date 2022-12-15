@@ -1,0 +1,353 @@
+,age,gender,country,race,mental_health,mental_health_diagnosed,family_history,treatment,self_employed,work_interfere,no_employees,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,coworkers,obs_neg_response,mental_vs_physical,mental_health_interview,physical_importance,mental_importance,supervisor,neg_consequence_coworker
+1,25,Male,United States of America,White,Don't Know,NA,No,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,No,Yes,Yes,I don't know,Very easy,Yes,No,Physical health,Maybe,5,5,Yes,No
+2,51,male,United States of America,White,Possibly,NA,Yes,FALSE,FALSE,Sometimes,26-100,TRUE,Yes,No,No,Yes,Yes,I don't know,Maybe,"Yes, I observed",Physical health,No,5,7,Maybe,No
+3,27,Male,United States of America,White,No,NA,I don't know,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,Maybe/Not sure,Same level of comfort for each,No,5,4,No,No
+4,37,male,United States of America,White,No,NA,Yes,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,Yes,Yes,Yes,Very easy,Maybe,No,Physical health,No,1,3,Yes,No
+5,46,m,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,No,I don't know,I don't know,I don't know,I don't know,No,No,Physical health,No,4,4,No,N/A
+6,36,female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,No,No,No,I don't know,Somewhat difficult,Yes,No,Physical health,No,6,5,No,No
+7,39,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,26-100,TRUE,Yes,Yes,No,I don't know,Yes,Somewhat easy,Maybe,No,Physical health,No,5,5,Maybe,No
+8,35,Male,United States of America,White,Possibly,NA,Yes,TRUE,TRUE,Rarely,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,No,NA,NA,NA,No
+9,49,NA,United Kingdom,NA,No,NA,No,FALSE,FALSE,Never,26-100,TRUE,Yes,No,Yes,Yes,Yes,Very easy,Yes,No,Same level of comfort for each,No,8,7,Yes,No
+10,45,Male,United Kingdom,NA,Possibly,NA,I don't know,TRUE,FALSE,Sometimes,Jun-25,TRUE,I don't know,N/A,No,I don't know,I don't know,Somewhat easy,Maybe,"Yes, I observed",Same level of comfort for each,Maybe,8,8,Yes,Maybe
+11,40,M,United Kingdom,NA,Possibly,NA,No,TRUE,FALSE,Not applicable to me,100-500,TRUE,Yes,Yes,No,I don't know,Yes,Very easy,Yes,Maybe/Not sure,Same level of comfort for each,No,5,5,Yes,N/A
+12,37,male,Netherlands,NA,No,NA,No,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,No
+13,31,Male,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Not applicable to me,More than 1000,TRUE,I don't know,No,No,No,Yes,Somewhat easy,Maybe,No,Physical health,No,7,7,Yes,N/A
+14,37,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,500-1000,TRUE,Yes,Yes,Yes,I don't know,I don't know,Somewhat difficult,Yes,No,Same level of comfort for each,No,7,5,Yes,No
+15,26,female,United States of America,White,Yes,Yes,No,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,Yes,Yes,I don't know,I don't know,Somewhat difficult,No,"Yes, I observed",Physical health,No,7,7,No,Yes
+16,43,M,Canada,NA,Yes,Yes,No,FALSE,FALSE,Rarely,100-500,FALSE,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Maybe,No,Physical health,No,4,2,Maybe,No
+17,35,Male,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,"Yes, I observed",Same level of comfort for each,No,7,9,Yes,No
+18,31,male,Turkey,NA,No,NA,Yes,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,Maybe,NA,NA,NA,No
+19,32,F,United States of America,I prefer not to answer,Possibly,NA,Yes,FALSE,FALSE,Not applicable to me,100-500,TRUE,Yes,No,Yes,I don't know,Yes,Very easy,Yes,"Yes, I observed",Same level of comfort for each,No,6,6,Yes,No
+20,37,Male,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,I don't know,No,Maybe/Not sure,Physical health,No,7,6,Maybe,No
+21,41,Male,United States of America,White,No,NA,I don't know,FALSE,FALSE,Not applicable to me,Jun-25,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,Yes,No,Physical health,No,8,7,Maybe,No
+22,40,f,United States of America,I prefer not to answer,Yes,Yes,Yes,TRUE,FALSE,Rarely,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,I don't know,Yes,"Yes, I observed",Physical health,No,10,10,Yes,Yes
+23,37,male,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,500-1000,TRUE,I don't know,No,No,No,Yes,Neither easy nor difficult,Yes,"Yes, I observed",Same level of comfort for each,No,9,5,Yes,No
+24,53,"Let's keep it simple and say ""male""",United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,"Yes, I experienced",Physical health,No,6,3,Maybe,No
+25,29,male,United States of America,More than one of the above,No,NA,Yes,TRUE,FALSE,Sometimes,Jun-25,TRUE,I don't know,No,No,No,I don't know,Very easy,Yes,No,Physical health,No,1,1,No,Maybe
+26,37,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,500-1000,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,Yes,No,Same level of comfort for each,Maybe,5,9,Yes,No
+27,45,female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,100-500,FALSE,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,Maybe/Not sure,Physical health,No,10,0,No,Yes
+28,26,Male,Netherlands,NA,Possibly,NA,No,FALSE,FALSE,Not applicable to me,Jun-25,TRUE,I don't know,No,No,I don't know,I don't know,Very easy,Yes,No,Same level of comfort for each,No,6,6,Yes,No
+29,28,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Very easy,Maybe,Maybe/Not sure,Physical health,No,5,7,Yes,No
+30,24,Female,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,Yes,Yes,No,I don't know,I don't know,No,No,Physical health,No,7,7,Yes,No
+31,27,Male,United States of America,White,Possibly,NA,Yes,FALSE,FALSE,Not applicable to me,100-500,TRUE,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,"Yes, I observed",Physical health,No,5,5,Maybe,No
+32,42,Male,United States of America,White,No,NA,No,TRUE,FALSE,Rarely,100-500,FALSE,Yes,No,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Same level of comfort for each,No,8,7,Yes,No
+33,53,Female,United States of America,White,No,NA,No,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,Maybe,NA,NA,NA,N/A
+34,34,Male,United Kingdom,NA,Possibly,NA,No,FALSE,FALSE,Not applicable to me,100-500,FALSE,Not eligible for coverage / NA,N/A,Yes,No,I don't know,Very easy,Yes,"Yes, I observed",Physical health,No,9,6,Yes,No
+35,23,Non-binary,United Kingdom,NA,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,500-1000,FALSE,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Yes,"Yes, I experienced",Physical health,No,7,7,Yes,No
+36,34,M,United States of America,White,Don't Know,NA,I don't know,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,No,Same level of comfort for each,Maybe,4,4,Maybe,No
+37,27,Male,United States of America,White,Possibly,NA,Yes,FALSE,FALSE,Sometimes,Jun-25,TRUE,I don't know,No,No,No,Yes,Very easy,Yes,No,Same level of comfort for each,No,8,5,Yes,Maybe
+38,31,Male,United States of America,White,Possibly,NA,I don't know,TRUE,FALSE,Not applicable to me,100-500,TRUE,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Physical health,No,9,7,No,Maybe
+39,30,Male,Belgium,NA,No,NA,No,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I observed",NA,Maybe,NA,NA,NA,No
+40,58,Male,United States of America,White,Yes,Yes,No,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,No,NA,NA,NA,No
+41,50,Male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,No,Physical health,No,8,6,Yes,No
+42,41,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Never,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Physical health,No,3,6,Yes,No
+43,40,male,Croatia,NA,Possibly,NA,No,FALSE,FALSE,Sometimes,26-100,TRUE,I don't know,No,No,No,I don't know,Neither easy nor difficult,No,"Yes, I observed",Same level of comfort for each,No,0,0,No,No
+44,28,Male,Belgium,NA,Yes,Yes,I don't know,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,Maybe,NA,NA,NA,Yes
+45,49,Identify as male,United Kingdom,NA,No,NA,No,FALSE,FALSE,Not applicable to me,01-May,TRUE,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,No,Physical health,Maybe,9,7,Maybe,Maybe
+46,37,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Very easy,Yes,No,Same level of comfort for each,No,3,3,Yes,No
+47,36,m,United States of America,White,Yes,Yes,I don't know,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,Maybe,NA,NA,NA,No
+48,52,Male,United States of America,White,Possibly,NA,No,TRUE,FALSE,Rarely,Jun-25,FALSE,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,"Yes, I experienced",Same level of comfort for each,No,10,10,Yes,No
+49,33,NA,Canada,NA,No,NA,I don't know,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Very easy,Maybe,No,Physical health,Maybe,9,9,Yes,N/A
+50,54,Female,Canada,NA,No,NA,I don't know,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,N/A
+51,38,Male,United Kingdom,NA,Don't Know,NA,No,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,No
+52,64,Male,United Kingdom,NA,Yes,Yes,No,TRUE,TRUE,Often,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,Maybe,NA,NA,NA,N/A
+53,40,Male,United Kingdom,NA,Don't Know,NA,No,TRUE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,No
+54,37,Male,United States of America,White,Yes,Yes,I don't know,FALSE,FALSE,Often,26-100,TRUE,Yes,Yes,No,I don't know,I don't know,I don't know,No,Maybe/Not sure,Physical health,No,5,2,No,Yes
+55,53,Female,United States of America,White,Yes,Yes,No,TRUE,FALSE,Rarely,More than 1000,FALSE,I don't know,No,I don't know,Yes,I don't know,Somewhat difficult,Maybe,"Yes, I experienced",Same level of comfort for each,Yes,8,7,Yes,Maybe
+56,55,male,United Kingdom,NA,No,NA,I don't know,FALSE,FALSE,Not applicable to me,Jun-25,TRUE,No,N/A,No,No,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Same level of comfort for each,Maybe,4,3,Maybe,No
+57,30,Male,United States of America,I prefer not to answer,Possibly,NA,Yes,TRUE,FALSE,Often,Jun-25,TRUE,I don't know,Yes,Yes,No,Yes,Somewhat difficult,No,"Yes, I experienced",Physical health,No,4,3,Maybe,No
+58,35,Male,United States of America,White,No,NA,Yes,TRUE,FALSE,Rarely,500-1000,FALSE,Yes,No,No,No,I don't know,Somewhat easy,Maybe,"Yes, I observed",Physical health,No,3,1,No,Yes
+59,60,Male ,Canada,NA,Possibly,NA,Yes,FALSE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,I don't know,I don't know,Yes,Somewhat difficult,No,No,Physical health,No,7,7,Maybe,N/A
+60,34,female,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,100-500,FALSE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Maybe/Not sure,Physical health,No,5,5,Maybe,Maybe
+61,35,Male,United States of America,White,No,NA,Yes,TRUE,FALSE,Rarely,More than 1000,FALSE,No,No,No,No,I don't know,Difficult,No,"Yes, I observed",Physical health,No,5,2,No,Maybe
+62,34,Male,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Not applicable to me,More than 1000,FALSE,Yes,No,No,No,I don't know,Somewhat difficult,No,No,Physical health,No,2,0,No,N/A
+63,28,Male,United States of America,White,Don't Know,NA,Yes,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,No,No,No,Yes,Very easy,No,No,Physical health,No,7,3,Yes,Yes
+64,28,Woman,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Often,26-100,TRUE,I don't know,No,No,No,I don't know,Neither easy nor difficult,Yes,"Yes, I experienced",Physical health,Maybe,5,2,Maybe,Yes
+65,36,NA,United Kingdom,NA,No,NA,No,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,Yes,No,No,Yes,Somewhat difficult,Yes,"Yes, I experienced",Same level of comfort for each,No,7,5,Maybe,Maybe
+66,24,Male,Ghana,NA,Don't Know,NA,I don't know,FALSE,FALSE,Not applicable to me,Jun-25,TRUE,No,No,No,No,No,Somewhat difficult,No,Maybe/Not sure,Same level of comfort for each,No,0,0,Yes,Yes
+67,50,Male,United States of America,White,No,NA,I don't know,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,No,NA,NA,NA,Yes
+68,55,Male,United States of America,White,Possibly,NA,I don't know,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,No,No,Yes,I don't know,I don't know,Maybe,Maybe/Not sure,Physical health,No,5,4,No,No
+69,32,Male,Norway,NA,Yes,Yes,No,TRUE,FALSE,Sometimes,26-100,TRUE,Yes,Yes,No,I don't know,Yes,Neither easy nor difficult,Maybe,"Yes, I experienced",Same level of comfort for each,Yes,4,6,Yes,No
+70,33,Male,United States of America,White,Possibly,NA,I don't know,TRUE,FALSE,Sometimes,500-1000,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,"Yes, I experienced",Same level of comfort for each,Yes,10,5,Yes,No
+71,30,Female,Portugal,NA,Yes,Yes,Yes,TRUE,FALSE,Sometimes,500-1000,TRUE,Yes,Yes,No,No,I don't know,I don't know,No,No,Physical health,No,7,5,Maybe,No
+72,30,Male,Portugal,NA,Possibly,NA,Yes,FALSE,FALSE,Never,500-1000,TRUE,Yes,No,No,I don't know,Yes,Very easy,Yes,"Yes, I experienced",Same level of comfort for each,No,9,9,Yes,No
+73,34,Male,Portugal,NA,No,NA,I don't know,FALSE,FALSE,Not applicable to me,100-500,TRUE,Yes,Yes,Yes,No,I don't know,I don't know,Maybe,No,Physical health,Yes,7,7,Maybe,N/A
+74,36,Female,Portugal,NA,Possibly,NA,Yes,TRUE,FALSE,Not applicable to me,100-500,TRUE,No,No,No,No,I don't know,Very easy,Maybe,No,Physical health,Maybe,8,7,Yes,N/A
+75,30,Male,Portugal,NA,Yes,Yes,Yes,TRUE,FALSE,Rarely,100-500,TRUE,No,N/A,No,No,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Physical health,No,8,5,Maybe,Yes
+76,29,Male,Portugal,NA,No,NA,No,FALSE,FALSE,Not applicable to me,01-May,TRUE,No,N/A,Yes,No,No,I don't know,Maybe,No,Physical health,Yes,9,8,No,N/A
+77,34,M,Portugal,NA,No,NA,Yes,TRUE,FALSE,Not applicable to me,500-1000,TRUE,No,No,No,No,No,Somewhat easy,No,No,Physical health,No,6,3,Yes,N/A
+78,40,M,Portugal,NA,Possibly,NA,No,TRUE,FALSE,Not applicable to me,100-500,TRUE,No,Yes,No,No,No,Very easy,Yes,Maybe/Not sure,Same level of comfort for each,No,3,3,Yes,Maybe
+79,31,Non binary,Portugal,NA,Possibly,NA,I don't know,FALSE,FALSE,Rarely,500-1000,TRUE,Not eligible for coverage / NA,N/A,No,No,I don't know,I don't know,No,Maybe/Not sure,Physical health,No,8,5,No,Maybe
+80,27,Masculine,Portugal,NA,No,NA,Yes,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,No,I don't know,Yes,I don't know,Maybe,No,Physical health,No,9,8,Maybe,N/A
+81,47,M,United States of America,White,Possibly,NA,Yes,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Same level of comfort for each,No,6,7,Yes,N/A
+82,24,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,100-500,FALSE,Yes,Yes,No,Yes,Yes,Difficult,Maybe,No,Physical health,No,6,4,Maybe,No
+83,36,Male,Portugal,NA,No,NA,No,TRUE,FALSE,Not applicable to me,100-500,TRUE,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,No,Physical health,No,7,3,Yes,N/A
+84,28,male,Portugal,NA,No,NA,I don't know,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Yes,No,Physical health,Maybe,8,5,Maybe,N/A
+85,34,Male,United Kingdom,NA,No,NA,No,FALSE,FALSE,Not applicable to me,500-1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Physical health,Maybe,5,7,Maybe,No
+86,28,Male,Portugal,NA,No,NA,No,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,Yes,No,Physical health,No,5,5,Yes,N/A
+87,36,M,Portugal,NA,No,NA,Yes,TRUE,FALSE,Not applicable to me,500-1000,TRUE,Yes,Yes,No,No,I don't know,I don't know,No,"Yes, I observed",Physical health,No,7,4,No,Maybe
+88,24,male,Portugal,NA,Don't Know,NA,I don't know,FALSE,FALSE,Not applicable to me,100-500,TRUE,Yes,Yes,I don't know,No,Yes,Somewhat easy,Maybe,No,Physical health,Maybe,10,8,Yes,No
+89,32,Cishet male,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Rarely,Jun-25,TRUE,Yes,Yes,No,No,Yes,I don't know,Maybe,No,Physical health,No,5,5,Maybe,No
+90,33,Male,United Kingdom,NA,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,26-100,FALSE,No,No,Yes,No,Yes,Very easy,Yes,Maybe/Not sure,Physical health,Maybe,5,3,Maybe,No
+91,39,Male,United States of America,More than one of the above,No,NA,I don't know,TRUE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Maybe,No,Physical health,Maybe,6,5,Maybe,No
+92,26,female,United States of America,More than one of the above,Yes,Yes,I don't know,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,No,Yes,I don't know,I don't know,No,"Yes, I experienced",Physical health,Maybe,7,5,No,Yes
+93,32,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,Maybe/Not sure,Physical health,No,7,7,Maybe,No
+94,42,Male,United Kingdom,NA,No,NA,I don't know,TRUE,FALSE,Rarely,26-100,TRUE,Yes,No,Yes,Yes,Yes,Somewhat easy,Yes,No,Same level of comfort for each,Maybe,7,7,Yes,No
+95,41,M,United States of America,White,Yes,Yes,I don't know,FALSE,FALSE,Never,More than 1000,TRUE,Yes,Yes,No,Yes,I don't know,I don't know,Maybe,"Yes, I observed",Physical health,No,10,8,No,Yes
+96,32,Male,Canada,NA,Possibly,NA,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,Yes,Yes,No,I don't know,Somewhat difficult,Maybe,"Yes, I experienced",Same level of comfort for each,Maybe,8,4,No,Yes
+97,32,F,United States of America,White,Don't Know,NA,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,No,Yes,No,Yes,I don't know,I don't know,No,No,Physical health,No,3,3,No,N/A
+98,31,Female,United States of America,White,No,NA,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,No,I don't know,Yes,I don't know,Very easy,Yes,No,Same level of comfort for each,No,7,8,Yes,No
+99,34,Non-binary,Switzerland,NA,Yes,Yes,Yes,TRUE,FALSE,Rarely,100-500,TRUE,Not eligible for coverage / NA,N/A,No,No,I don't know,Somewhat easy,Yes,"Yes, I experienced",Physical health,No,8,7,Maybe,No
+100,36,None,United Kingdom,NA,Possibly,NA,Yes,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,Yes,No,Yes,Yes,I don't know,Difficult,No,"Yes, I observed",Physical health,No,4,1,No,Yes
+101,33,male,Switzerland,NA,No,NA,No,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,Yes,I don't know,Yes,Very easy,No,"Yes, I observed",Physical health,No,10,10,Yes,N/A
+102,30,male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Never,26-100,TRUE,I don't know,No,No,I don't know,Yes,Somewhat easy,Maybe,No,Physical health,No,5,5,Maybe,N/A
+103,45,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,26-100,TRUE,I don't know,Yes,No,No,I don't know,Difficult,Yes,"Yes, I experienced",Physical health,No,3,0,Maybe,Yes
+104,30,Male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,Yes,No,Yes,Yes,I don't know,Very easy,Yes,No,Same level of comfort for each,Yes,7,7,Yes,No
+105,48,Male,United Kingdom,NA,Possibly,NA,Yes,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,N/A
+106,29,Male,Portugal,NA,Possibly,NA,I don't know,FALSE,FALSE,Often,100-500,TRUE,Yes,No,No,No,I don't know,Somewhat difficult,Maybe,"Yes, I observed",Physical health,No,5,5,No,Yes
+107,35,Female-identified,Canada,NA,Yes,Yes,I don't know,TRUE,TRUE,Rarely,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I experienced",NA,Yes,NA,NA,NA,Yes
+108,41,Male,United States of America,White,Yes,No,I don't know,TRUE,FALSE,Sometimes,100-500,TRUE,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,"Yes, I observed",Physical health,No,5,2,No,Yes
+109,27,F,United States of America,White,Possibly,NA,Yes,FALSE,FALSE,Not applicable to me,26-100,FALSE,Yes,Yes,No,No,Yes,Neither easy nor difficult,Yes,No,Same level of comfort for each,No,1,5,Maybe,No
+110,42,Male,United States of America,White,Possibly,NA,I don't know,TRUE,FALSE,Sometimes,Jun-25,TRUE,Yes,Yes,No,Yes,Yes,Very easy,Yes,No,Same level of comfort for each,Maybe,8,8,Yes,No
+111,32,male,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,No,No,I don't know,I don't know,Yes,No,Physical health,Maybe,5,3,Yes,No
+112,32,Male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,I don't know,I don't know,I don't know,Very easy,Maybe,No,Physical health,No,6,5,Yes,N/A
+113,20,Woman,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,01-May,TRUE,Yes,Yes,No,No,Yes,Very easy,No,No,Same level of comfort for each,Maybe,5,8,No,No
+114,24,woman,United States of America,White,Yes,Yes,Yes,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,Maybe,NA,NA,NA,Maybe
+115,0,male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,500-1000,FALSE,I don't know,No,Yes,I don't know,I don't know,Very easy,Maybe,No,Same level of comfort for each,No,6,6,Yes,No
+116,38,Male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,No,No,No,I don't know,Very easy,Maybe,No,Physical health,Maybe,7,7,Yes,No
+117,31,Male,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Rarely,Jun-25,TRUE,I don't know,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe/Not sure,Physical health,No,8,5,Maybe,No
+118,26,M,United States of America,More than one of the above,Yes,Yes,Yes,TRUE,FALSE,Rarely,26-100,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,"Yes, I experienced",Mental health,No,3,1,No,No
+119,40,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,26-100,TRUE,Yes,No,No,No,Yes,Somewhat easy,Yes,Maybe/Not sure,Physical health,No,5,6,Yes,Maybe
+120,30,male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,Jun-25,FALSE,Yes,No,No,No,I don't know,Somewhat easy,Maybe,No,Same level of comfort for each,No,7,7,Maybe,No
+121,38,Male,United States of America,White,Yes,Yes,No,TRUE,FALSE,Not applicable to me,26-100,FALSE,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,"Yes, I experienced",Physical health,No,0,0,Maybe,No
+122,28,male,United States of America,White,No,NA,No,TRUE,FALSE,Not applicable to me,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,No,Same level of comfort for each,Maybe,5,5,Yes,N/A
+123,28,Female,Pakistan,NA,Don't Know,NA,No,FALSE,FALSE,Rarely,More than 1000,FALSE,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat difficult,No,Maybe/Not sure,Physical health,No,2,1,No,Maybe
+124,30,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,TRUE,Yes,No,No,Yes,I don't know,I don't know,No,"Yes, I experienced",Physical health,Maybe,6,3,No,Yes
+125,23,Nonbinary,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,No,Same level of comfort for each,Maybe,7,5,Yes,No
+126,30,male,United States of America,White,Don't Know,NA,I don't know,FALSE,FALSE,Sometimes,More than 1000,TRUE,I don't know,No,No,No,I don't know,I don't know,Yes,Maybe/Not sure,Same level of comfort for each,No,10,3,Yes,No
+127,33,female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Same level of comfort for each,No,5,9,Yes,No
+128,53,Female,United States of America,White,No,NA,Yes,TRUE,FALSE,Not applicable to me,500-1000,FALSE,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,Same level of comfort for each,No,10,4,No,No
+129,38,Male,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,Yes,Yes,I don't know,Yes,Neither easy nor difficult,Maybe,"Yes, I observed",Physical health,No,5,2,Maybe,Yes
+130,34,male,Poland,NA,Possibly,NA,No,FALSE,FALSE,Not applicable to me,26-100,TRUE,No,N/A,No,No,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Same level of comfort for each,No,0,0,Maybe,N/A
+131,40,Male,United States of America,White,No,NA,I don't know,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,No,Physical health,Yes,8,7,Yes,N/A
+132,42,Male,United States of America,Asian,No,NA,Yes,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,Yes,No,No,I don't know,I don't know,I don't know,Maybe,No,Physical health,Yes,7,5,Yes,N/A
+133,42,Male,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Rarely,Jun-25,TRUE,Yes,No,No,No,I don't know,Somewhat easy,Yes,No,Same level of comfort for each,Maybe,5,5,Yes,No
+134,38,Male,Canada,NA,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,26-100,FALSE,Yes,Yes,No,Yes,I don't know,I don't know,Maybe,No,Physical health,No,8,5,Maybe,No
+135,33,agender,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Somewhat easy,Maybe,Maybe/Not sure,Physical health,No,6,6,Maybe,No
+136,35,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,Yes,I don't know,I don't know,Yes,I don't know,Maybe,Maybe/Not sure,Physical health,No,8,5,Maybe,Maybe
+137,27,Female,Spain,NA,Possibly,NA,I don't know,FALSE,FALSE,Not applicable to me,100-500,TRUE,No,N/A,No,No,I don't know,Somewhat easy,No,No,Physical health,No,6,2,No,No
+138,28,Female,Turkey,NA,No,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,Not eligible for coverage / NA,Yes,Yes,No,I don't know,Somewhat easy,Maybe,No,Same level of comfort for each,Maybe,7,7,Yes,N/A
+139,42,Male,India,NA,Yes,No,No,TRUE,FALSE,Never,More than 1000,TRUE,No,No,No,No,No,Somewhat easy,No,No,Mental health,Maybe,1,1,No,No
+140,35,f,Brazil,NA,Don't Know,NA,I don't know,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,I don't know,N/A,No,No,I don't know,I don't know,Maybe,I've always been self-employed,Same level of comfort for each,Maybe,5,5,Maybe,N/A
+141,40,Male,United States of America,White,No,NA,No,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,No,Physical health,No,3,1,No,Maybe
+142,54,female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,100-500,FALSE,Yes,Yes,Yes,No,I don't know,Somewhat difficult,No,"Yes, I experienced",Physical health,No,7,5,No,Yes
+143,37,male,United States of America,White,No,NA,Yes,TRUE,FALSE,Not applicable to me,100-500,TRUE,Yes,No,No,No,I don't know,Very easy,Maybe,Maybe/Not sure,Same level of comfort for each,Maybe,5,9,Yes,No
+144,26,Female,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,I don't know,Yes,Yes,Somewhat difficult,Maybe,No,Physical health,Maybe,10,8,No,N/A
+145,37,Male,Brazil,NA,Possibly,NA,I don't know,FALSE,FALSE,Not applicable to me,100-500,FALSE,I don't know,No,No,No,I don't know,I don't know,Maybe,Maybe/Not sure,Physical health,No,6,0,No,Yes
+146,49,Female,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Often,More than 1000,FALSE,Yes,Yes,No,No,I don't know,Somewhat easy,No,"Yes, I observed",Physical health,No,6,0,No,N/A
+147,23,Male,United States of America,Asian,No,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,I don't know,No,Yes,Yes,Yes,Somewhat easy,Maybe,"Yes, I observed",Physical health,No,9,8,Maybe,N/A
+148,42,Female,United Kingdom,NA,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,No,Yes,Yes,Yes,Very easy,Yes,Maybe/Not sure,Same level of comfort for each,Maybe,8,8,Yes,No
+149,49,Male,Netherlands,NA,Possibly,NA,No,FALSE,FALSE,Sometimes,More than 1000,TRUE,Yes,No,Yes,Yes,Yes,Difficult,No,Maybe/Not sure,Physical health,No,8,4,No,Yes
+150,38,male,Poland,NA,Don't Know,NA,No,FALSE,TRUE,Rarely,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,No,NA,NA,NA,No
+151,41,F,United Kingdom,NA,No,NA,Yes,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,Yes,Yes,I don't know,Somewhat difficult,No,"Yes, I observed",Physical health,No,6,6,No,Yes
+152,33,male,United Kingdom,NA,No,NA,No,TRUE,FALSE,Not applicable to me,100-500,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Physical health,No,8,8,Yes,No
+153,27,Man,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,26-100,TRUE,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Yes,No,Same level of comfort for each,No,5,5,Yes,No
+154,47,male,United Kingdom,NA,No,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,No,Physical health,No,7,7,No,No
+155,28,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,I don't know,No,Yes,No,Yes,Somewhat difficult,No,No,Physical health,No,8,3,Maybe,Maybe
+156,49,Female,Canada,NA,Yes,Yes,Yes,TRUE,FALSE,Often,More than 1000,TRUE,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,"Yes, I observed",Physical health,No,6,4,Maybe,Maybe
+157,23,Male,United Kingdom,NA,Possibly,NA,I don't know,TRUE,FALSE,Rarely,More than 1000,FALSE,I don't know,No,No,No,Yes,Somewhat difficult,No,Maybe/Not sure,Physical health,No,6,5,No,Yes
+158,23,Questioning,United States of America,Black or African American,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,Yes,Yes,I don't know,Yes,I don't know,Maybe,No,Physical health,No,10,6,Maybe,No
+159,38,cis male,United States of America,White,Yes,Yes,Yes,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I experienced",NA,No,NA,NA,NA,Maybe
+160,45,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,01-May,TRUE,No,N/A,I don't know,No,Yes,Very easy,Yes,Maybe/Not sure,Same level of comfort for each,Maybe,10,10,Yes,No
+161,35,male,United States of America,White,Possibly,NA,Yes,TRUE,TRUE,Often,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,No,NA,NA,NA,Maybe
+162,51,Male,Austria,NA,Yes,Yes,Yes,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,Maybe,NA,NA,NA,No
+163,34,female,United States of America,White,No,NA,Yes,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I experienced",NA,Maybe,NA,NA,NA,N/A
+164,29,male,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Sometimes,26-100,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Physical health,No,6,7,Yes,Yes
+165,40,Male,United States of America,White,Possibly,NA,I don't know,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,No,Physical health,No,3,3,Maybe,No
+166,38,male,Germany,NA,Possibly,NA,No,FALSE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,Maybe,NA,NA,NA,No
+167,32,Cis Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,26-100,TRUE,Yes,No,No,No,I don't know,I don't know,Maybe,"Yes, I experienced",Physical health,No,2,2,No,No
+168,22,female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,Yes,I don't know,I don't know,Difficult,Maybe,"Yes, I observed",Physical health,No,7,4,Yes,No
+169,28,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,01-May,TRUE,Yes,Yes,Yes,I don't know,Yes,Very easy,Maybe,Maybe/Not sure,Same level of comfort for each,No,8,8,Yes,Yes
+170,29,female,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,More than 1000,TRUE,I don't know,No,Yes,I don't know,I don't know,I don't know,No,Maybe/Not sure,Physical health,No,5,4,No,N/A
+171,32,I have a penis,United States of America,White,No,NA,No,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,Yes,NA,NA,NA,Maybe
+172,38,female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,No,No,I don't know,I don't know,I don't know,Yes,"Yes, I experienced",Physical health,Maybe,5,5,Maybe,No
+173,30,Male,United States of America,Hispanic,No,NA,No,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,No,No,I don't know,I don't know,Very easy,Maybe,No,Physical health,No,6,5,No,N/A
+174,37,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,I don't know,Yes,I don't know,Neither easy nor difficult,No,Maybe/Not sure,Physical health,No,8,5,No,No
+175,38,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Difficult,Maybe,No,Physical health,No,10,5,Maybe,No
+176,51,F,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Difficult,Maybe,"Yes, I experienced",Same level of comfort for each,No,8,5,Maybe,Yes
+177,39,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Physical health,No,10,8,Maybe,Yes
+178,22,Male,United States of America,White,Don't Know,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,Yes,No,I don't know,I don't know,I don't know,I don't know,No,No,Physical health,Yes,7,8,Yes,No
+179,26,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,TRUE,Yes,Yes,I don't know,Yes,Yes,Very easy,Yes,"Yes, I experienced",Same level of comfort for each,Maybe,7,5,No,Maybe
+180,42,m,United States of America,More than one of the above,Possibly,NA,Yes,FALSE,FALSE,Sometimes,100-500,FALSE,I don't know,No,No,No,No,Somewhat easy,No,"Yes, I observed",Physical health,No,5,1,No,Yes
+181,49,male,United Kingdom,NA,Yes,Yes,No,TRUE,FALSE,Often,100-500,FALSE,Not eligible for coverage / NA,No,Yes,No,I don't know,I don't know,No,"Yes, I observed",Physical health,No,5,2,No,N/A
+182,48,Male,United Kingdom,NA,No,NA,Yes,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,Yes,No,Yes,Yes,Yes,Very easy,Yes,No,Same level of comfort for each,Maybe,8,8,Yes,No
+183,25,male,Germany,NA,No,NA,Yes,TRUE,FALSE,Often,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Very easy,No,"Yes, I experienced",Physical health,No,7,8,Maybe,Maybe
+184,31,Male,Israel,NA,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,Jun-25,TRUE,Not eligible for coverage / NA,N/A,No,No,I don't know,Very easy,Maybe,No,Physical health,No,4,8,Maybe,No
+185,63,Male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,01-May,TRUE,Yes,No,No,Yes,Yes,Neither easy nor difficult,Maybe,"Yes, I observed",Physical health,No,8,8,Maybe,No
+186,30,Female,Turkey,NA,Don't Know,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,No,No,No,No,I don't know,Difficult,No,No,Physical health,No,7,5,No,Maybe
+187,34,male,Switzerland,NA,No,NA,I don't know,TRUE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,No,I don't know,I don't know,Very easy,Maybe,No,Physical health,Maybe,10,10,Maybe,No
+188,41,Male,Netherlands,NA,Possibly,NA,Yes,TRUE,FALSE,Not applicable to me,100-500,TRUE,No,N/A,No,No,I don't know,Somewhat easy,Yes,"Yes, I experienced",Same level of comfort for each,No,6,3,Maybe,Maybe
+189,31,Male,Norway,NA,Possibly,NA,Yes,TRUE,FALSE,Rarely,More than 1000,FALSE,No,No,No,Yes,No,Very easy,Maybe,"Yes, I experienced",Physical health,No,5,5,Yes,No
+190,29,Woman,Norway,NA,No,NA,Yes,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Very easy,Maybe,Maybe/Not sure,Physical health,Maybe,6,4,Yes,No
+191,29,Male,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,No,No,Yes,I don't know,Somewhat easy,No,Maybe/Not sure,Physical health,No,6,4,No,Maybe
+192,44,rr,United States of America,Black or African American,Yes,Yes,Yes,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I experienced",NA,Maybe,NA,NA,NA,Yes
+193,32,male,United States of America,White,Possibly,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,No,Physical health,No,6,3,Maybe,Yes
+194,28,Male,Norway,NA,No,NA,Yes,TRUE,FALSE,Not applicable to me,More than 1000,FALSE,I don't know,No,No,No,I don't know,Very easy,Maybe,Maybe/Not sure,Physical health,No,7,6,Maybe,No
+195,36,Male,United States of America,White,Yes,Yes,I don't know,FALSE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,Maybe,Maybe/Not sure,Physical health,No,7,6,Maybe,No
+196,28,cis woman,United States of America,White,Don't Know,NA,Yes,TRUE,FALSE,Not applicable to me,More than 1000,TRUE,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,"Yes, I observed",Physical health,No,8,6,No,Yes
+197,30,Female,United States of America,White,Yes,Yes,Yes,TRUE,TRUE,Rarely,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,No
+198,36,Male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,No,Same level of comfort for each,No,8,8,Yes,Maybe
+199,40,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,Jun-25,TRUE,Yes,No,No,No,I don't know,Somewhat difficult,Maybe,No,Same level of comfort for each,Yes,5,3,Maybe,No
+200,27,Male,United States of America,White,Don't Know,NA,No,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,"Yes, I observed",Physical health,No,4,0,Yes,N/A
+201,28,female,Norway,NA,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,No,No,I don't know,I don't know,Very easy,Maybe,Maybe/Not sure,Physical health,No,3,2,Yes,No
+202,34,male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,"Yes, I experienced",Physical health,Maybe,7,7,Yes,No
+203,34,Male,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,Jun-25,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,"Yes, I observed",Same level of comfort for each,Maybe,9,10,Yes,No
+204,34,Female,United States of America,White,Yes,Yes,Yes,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,No,NA,NA,NA,No
+205,27,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,Yes,No,Yes,I don't know,I don't know,Maybe,"Yes, I observed",Physical health,No,6,1,Maybe,Yes
+206,44,female,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,No,No,Yes,Neither easy nor difficult,Maybe,Maybe/Not sure,Same level of comfort for each,No,5,3,Maybe,Yes
+207,36,Male,Mexico,NA,Yes,Yes,I don't know,TRUE,FALSE,Rarely,100-500,FALSE,No,No,No,No,I don't know,Neither easy nor difficult,No,No,Physical health,Yes,8,5,No,No
+208,31,female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,No,Same level of comfort for each,No,10,10,Yes,N/A
+209,26,Agender trans woman,United States of America,More than one of the above,Yes,Yes,No,TRUE,FALSE,Sometimes,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,Maybe/Not sure,Same level of comfort for each,Yes,8,10,Yes,No
+210,39,male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,Jun-25,TRUE,Yes,Yes,No,I don't know,Yes,Very easy,Yes,No,Same level of comfort for each,Maybe,7,8,Yes,No
+211,36,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,Maybe/Not sure,Same level of comfort for each,Maybe,6,5,Yes,N/A
+212,25,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Often,Jun-25,TRUE,Not eligible for coverage / NA,Yes,No,No,Yes,Somewhat easy,Maybe,"Yes, I experienced",Physical health,Maybe,9,6,Maybe,No
+213,47,m,Switzerland,NA,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,More than 1000,FALSE,No,No,No,No,I don't know,Very easy,No,"Yes, I experienced",Physical health,No,0,0,No,N/A
+214,38,Male,United Kingdom,NA,Possibly,NA,I don't know,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,No,Yes,Yes,I don't know,Somewhat easy,Yes,"Yes, I experienced",Same level of comfort for each,No,5,7,Yes,No
+215,33,male,Canada,NA,Don't Know,NA,No,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,N/A,Yes,No,I don't know,Very easy,Maybe,"Yes, I observed",Same level of comfort for each,Maybe,10,10,Maybe,N/A
+216,59,Female ,United Kingdom,NA,Possibly,NA,I don't know,TRUE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I experienced",NA,No,NA,NA,NA,Maybe
+217,39,Male,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Rarely,100-500,TRUE,Yes,Yes,Yes,No,Yes,Very easy,Maybe,"Yes, I observed",Physical health,Yes,5,7,Yes,No
+218,19,female,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Rarely,100-500,TRUE,Not eligible for coverage / NA,N/A,Yes,I don't know,Yes,I don't know,No,No,Physical health,No,5,5,Maybe,No
+219,35,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,Jun-25,FALSE,Not eligible for coverage / NA,N/A,No,No,I don't know,Neither easy nor difficult,No,Maybe/Not sure,Physical health,No,5,3,No,No
+220,38,male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,26-100,TRUE,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,Maybe/Not sure,Physical health,No,0,0,No,Yes
+221,23,femmina,Italy,NA,No,NA,No,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,Yes,I don't know,Yes,I don't know,Somewhat easy,Maybe,No,Physical health,Maybe,8,10,No,N/A
+222,32,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Difficult,No,No,Physical health,Maybe,8,1,Yes,N/A
+223,39,male,United States of America,White,Yes,Yes,Yes,TRUE,TRUE,Rarely,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,Yes
+224,33,Male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Maybe,No,Physical health,Maybe,6,6,Maybe,No
+225,38,Female,New Zealand,NA,Yes,Yes,No,TRUE,FALSE,Often,500-1000,TRUE,I don't know,No,No,No,Yes,Somewhat easy,Maybe,"Yes, I observed",Physical health,No,5,4,Yes,Maybe
+226,42,Male,United States of America,White,Possibly,NA,No,TRUE,FALSE,Sometimes,26-100,TRUE,Yes,No,No,I don't know,I don't know,Very easy,Maybe,No,Same level of comfort for each,Maybe,6,6,Maybe,No
+227,39,female,United States of America,White,Possibly,NA,No,FALSE,FALSE,Not applicable to me,500-1000,TRUE,I don't know,Yes,No,No,I don't know,Difficult,Maybe,Maybe/Not sure,Physical health,No,5,0,No,No
+228,30,Male,Spain,NA,Don't Know,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,Not eligible for coverage / NA,No,No,No,I don't know,Very easy,Yes,No,Same level of comfort for each,No,8,5,Yes,Yes
+229,39,male,Germany,NA,Possibly,NA,I don't know,FALSE,FALSE,Not applicable to me,100-500,TRUE,No,No,I don't know,I don't know,I don't know,Very easy,Maybe,Maybe/Not sure,Same level of comfort for each,No,8,6,Yes,Maybe
+230,50,male,Italy,NA,No,NA,Yes,TRUE,FALSE,Often,500-1000,TRUE,I don't know,No,No,No,I don't know,Very easy,Maybe,Maybe/Not sure,Physical health,Maybe,10,6,Maybe,N/A
+231,43,male,Portugal,NA,No,NA,No,FALSE,FALSE,Not applicable to me,100-500,FALSE,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Same level of comfort for each,Maybe,5,5,Maybe,N/A
+232,59,Female,United States of America,White,Possibly,NA,No,TRUE,TRUE,Rarely,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,No
+233,53,male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,I don't know,No,"Yes, I experienced",Physical health,No,10,8,Maybe,No
+234,35,Male,United States of America,White,No,NA,I don't know,FALSE,FALSE,Not applicable to me,Jun-25,TRUE,Yes,No,Yes,I don't know,I don't know,Very easy,Maybe,No,Physical health,Maybe,6,7,Yes,No
+235,27,Female,Canada,NA,No,NA,Yes,TRUE,FALSE,Not applicable to me,Jun-25,TRUE,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,"Yes, I experienced",Same level of comfort for each,Maybe,5,10,Yes,N/A
+236,24,female,Canada,NA,Possibly,NA,Yes,FALSE,FALSE,Sometimes,Jun-25,TRUE,Yes,No,No,No,No,Somewhat easy,No,Maybe/Not sure,Physical health,No,5,5,No,No
+237,29,Trans man,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,Jun-25,TRUE,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,Maybe,"Yes, I observed",Same level of comfort for each,Maybe,10,10,Yes,N/A
+238,40,female,Ireland,NA,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,No,No,I don't know,I don't know,No,"Yes, I observed",Physical health,No,10,2,Yes,N/A
+239,27,Male,France,NA,Don't Know,NA,No,FALSE,FALSE,Not applicable to me,100-500,TRUE,Not eligible for coverage / NA,N/A,No,No,I don't know,I don't know,Maybe,"Yes, I observed",Physical health,No,9,2,Maybe,N/A
+240,46,Male,Canada,NA,No,NA,Yes,TRUE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,Maybe,NA,NA,NA,No
+241,39,male,Canada,NA,Yes,Yes,No,FALSE,FALSE,Sometimes,100-500,TRUE,No,No,No,No,No,Difficult,No,"Yes, I observed",Physical health,No,10,0,No,Yes
+242,19,man,Algeria,NA,Don't Know,NA,I don't know,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,N/A
+243,28,male,Hong Kong,NA,No,NA,No,FALSE,FALSE,Not applicable to me,500-1000,TRUE,No,No,No,No,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Same level of comfort for each,No,1,1,No,N/A
+244,30,Male,United States of America,Asian,No,NA,Yes,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,I don't know,No,Yes,Yes,Yes,Somewhat easy,Maybe,"Yes, I observed",Physical health,No,10,8,Maybe,N/A
+245,29,Female,United States of America,Black or African American,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,I don't know,Yes,No,Same level of comfort for each,No,8,8,Maybe,N/A
+246,24,Male,United States of America,White,No,NA,I don't know,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,I don't know,No,No,No,I don't know,Somewhat difficult,Yes,No,Physical health,Maybe,7,3,Maybe,No
+247,25,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,TRUE,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat easy,Yes,"Yes, I experienced",Same level of comfort for each,No,8,5,Yes,No
+248,45,M,United Kingdom,NA,No,NA,I don't know,TRUE,FALSE,Not applicable to me,500-1000,FALSE,I don't know,No,Yes,I don't know,I don't know,I don't know,Maybe,No,Physical health,No,2,5,Maybe,No
+249,37,Male,United States of America,Asian,Yes,Yes,No,TRUE,FALSE,Not applicable to me,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,I don't know,No,No,Physical health,No,8,7,Maybe,No
+250,22,Male,United States of America,White,No,NA,Yes,FALSE,FALSE,Not applicable to me,Jun-25,TRUE,I don't know,No,No,No,I don't know,Very easy,Maybe,No,Same level of comfort for each,Maybe,7,6,Maybe,N/A
+251,35,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,500-1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,"Yes, I observed",Same level of comfort for each,No,7,7,Yes,Maybe
+252,50,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,I don't know,No,I don't know,I don't know,I don't know,I don't know,No,No,Physical health,No,10,2,Maybe,No
+253,45,Male,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,"Yes, I observed",Physical health,Maybe,8,5,Maybe,Maybe
+254,49,Male,United Kingdom,NA,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,100-500,FALSE,Not eligible for coverage / NA,N/A,Yes,I don't know,I don't know,I don't know,No,"Yes, I observed",Physical health,No,1,1,Yes,No
+255,40,Male,United Kingdom,NA,No,NA,No,FALSE,FALSE,Not applicable to me,100-500,FALSE,No,No,No,No,I don't know,Difficult,Yes,"Yes, I experienced",Same level of comfort for each,No,8,2,Maybe,No
+256,32,Male,Spain,NA,Possibly,NA,Yes,FALSE,TRUE,Often,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,Maybe,NA,NA,NA,No
+257,38,F,Pakistan,NA,No,NA,No,FALSE,FALSE,Not applicable to me,500-1000,TRUE,Yes,No,Yes,Yes,Yes,Very easy,No,Maybe/Not sure,Same level of comfort for each,Maybe,9,9,Yes,N/A
+258,37,M,United States of America,White,Possibly,NA,Yes,FALSE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,Maybe/Not sure,Same level of comfort for each,No,6,5,Yes,No
+259,28,Woman,United States of America,White Hispanic,Possibly,NA,No,FALSE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,Yes,I don't know,I don't know,Neither easy nor difficult,Yes,Maybe/Not sure,Physical health,No,4,4,Maybe,No
+260,25,m,United States of America,Asian,Don't Know,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,Yes,No,No,Yes,Yes,Somewhat difficult,No,No,Physical health,No,9,9,No,No
+261,28,Male,Brazil,NA,No,NA,Yes,FALSE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,Maybe,NA,NA,NA,Maybe
+262,38,Male,Brazil,NA,Possibly,NA,Yes,FALSE,FALSE,Often,Jun-25,TRUE,Not eligible for coverage / NA,N/A,No,I don't know,I don't know,I don't know,Maybe,No,Physical health,Maybe,6,6,Maybe,No
+263,25,male,India,NA,No,NA,No,FALSE,FALSE,Rarely,26-100,TRUE,I don't know,No,Yes,No,I don't know,Somewhat easy,Maybe,Maybe/Not sure,Physical health,Maybe,8,6,No,Maybe
+264,49,male,Canada,NA,Yes,No,I don't know,TRUE,FALSE,Rarely,Jun-25,TRUE,Yes,Yes,No,No,Yes,Very easy,Yes,Maybe/Not sure,Same level of comfort for each,Maybe,8,8,Yes,No
+265,19,masculino,Brazil,NA,Don't Know,NA,No,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,No,No,No,I don't know,Neither easy nor difficult,No,Maybe/Not sure,Physical health,No,6,5,No,Yes
+266,43,male,Brazil,NA,Don't Know,NA,No,TRUE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,Maybe
+267,31,Male,Brazil,NA,Don't Know,NA,No,TRUE,FALSE,Sometimes,500-1000,FALSE,Yes,No,Yes,No,No,Difficult,No,Maybe/Not sure,Physical health,No,9,2,No,Yes
+268,30,Male,Brazil,NA,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,No,"Yes, I experienced",Physical health,No,6,6,No,Maybe
+269,39,male,Brazil,NA,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,I don't know,No,No,No,I don't know,Somewhat easy,Yes,"Yes, I experienced",Same level of comfort for each,Maybe,5,4,Yes,No
+270,22,male,Brazil,NA,Yes,Yes,No,FALSE,FALSE,Rarely,100-500,FALSE,Not eligible for coverage / NA,N/A,Yes,No,I don't know,Very easy,No,"Yes, I observed",Physical health,No,3,3,Yes,Yes
+271,29,Male,Brazil,NA,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,Yes,No,I don't know,Yes,Difficult,No,"Yes, I observed",Physical health,No,8,4,No,No
+272,30,Male,Brazil,NA,Yes,Yes,Yes,FALSE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,No,NA,NA,NA,Yes
+273,32,male,Brazil,NA,Yes,Yes,No,TRUE,FALSE,Rarely,26-100,TRUE,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,"Yes, I experienced",Physical health,Maybe,9,3,No,Maybe
+274,41,Male,Brazil,NA,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,No,No,No,No,I don't know,I don't know,No,No,Physical health,No,6,6,Maybe,N/A
+275,27,F,Brazil,NA,Possibly,NA,No,FALSE,FALSE,Sometimes,More than 1000,FALSE,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,No,Same level of comfort for each,No,6,6,Maybe,No
+276,19,female,Indonesia,NA,Possibly,NA,I don't know,FALSE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,I've always been self-employed,NA,No,NA,NA,NA,No
+277,27,Male,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Rarely,500-1000,TRUE,Yes,Yes,No,I don't know,Yes,Somewhat easy,Maybe,Maybe/Not sure,Same level of comfort for each,Yes,7,3,Yes,No
+278,31,Male,Brazil,NA,Possibly,NA,I don't know,FALSE,TRUE,Rarely,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I observed",NA,Maybe,NA,NA,NA,Maybe
+279,25,Female,South Africa,NA,No,NA,No,TRUE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I observed",NA,No,NA,NA,NA,Yes
+280,36,male,India,NA,No,NA,I don't know,TRUE,FALSE,Often,More than 1000,TRUE,No,No,No,Yes,Yes,Somewhat difficult,No,"Yes, I observed",Physical health,No,6,1,No,No
+281,28,F,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Often,Jun-25,FALSE,No,No,Yes,No,I don't know,Neither easy nor difficult,Maybe,"Yes, I experienced",Same level of comfort for each,No,3,2,No,Yes
+282,27,f,United States of America,Asian,Possibly,NA,I don't know,TRUE,FALSE,Sometimes,500-1000,TRUE,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe/Not sure,Physical health,No,5,2,No,Maybe
+283,47,None,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,26-100,TRUE,Yes,Yes,No,No,Yes,Very easy,No,Maybe/Not sure,Physical health,No,7,5,Yes,N/A
+284,25,Male,India,NA,Yes,Yes,I don't know,TRUE,FALSE,Rarely,26-100,TRUE,I don't know,No,No,No,I don't know,I don't know,Maybe,Maybe/Not sure,Physical health,Maybe,5,3,Maybe,No
+285,30,female,United States of America,Asian,No,NA,No,TRUE,FALSE,Not applicable to me,100-500,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,Yes,Maybe/Not sure,Physical health,No,2,3,Yes,No
+286,45,M,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,100-500,FALSE,Not eligible for coverage / NA,No,I don't know,I don't know,I don't know,I don't know,No,"Yes, I experienced",Physical health,No,5,5,No,Yes
+287,41,I am a Wookie,Afghanistan,NA,Possibly,NA,Yes,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,No
+288,24,Female,South Africa,NA,Possibly,NA,I don't know,TRUE,FALSE,Not applicable to me,Jun-25,TRUE,No,N/A,No,No,No,Neither easy nor difficult,Maybe,"Yes, I experienced",Same level of comfort for each,No,3,2,No,No
+289,26,Female ,United States of America,Asian,No,NA,I don't know,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,I don't know,No,No,No,Yes,Somewhat easy,Maybe,No,Physical health,No,10,2,No,No
+290,32,female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,"Yes, I experienced",Physical health,No,6,3,No,N/A
+291,43,female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Difficult,Maybe,"Yes, I observed",Physical health,No,5,5,Maybe,Yes
+292,37,Male,United States of America,European American,No,NA,No,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,Maybe,NA,NA,NA,N/A
+293,51,Make,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,500-1000,FALSE,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Maybe,"Yes, I observed",Physical health,No,5,5,Yes,Yes
+294,56,Male,United States of America,White,No,NA,No,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maybe/Not sure,NA,Maybe,NA,NA,NA,N/A
+295,30,Male,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Sometimes,500-1000,FALSE,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,"Yes, I observed",Physical health,No,7,7,Yes,No
+296,48,Trans non-binary/genderfluid,United States of America,White,No,NA,Yes,FALSE,FALSE,Not applicable to me,26-100,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,No,No,Physical health,Maybe,7,2,No,No
+297,28,Female,United States of America,More than one of the above,Yes,Yes,I don't know,TRUE,FALSE,Rarely,100-500,TRUE,Yes,Yes,No,No,I don't know,Somewhat difficult,No,Maybe/Not sure,Physical health,No,7,5,No,Yes
+298,26,Female,United States of America,White,Yes,Yes,No,TRUE,FALSE,Sometimes,Jun-25,TRUE,No,No,No,No,I don't know,Somewhat easy,Yes,"Yes, I observed",Physical health,No,5,2,Maybe,Yes
+299,45,male,United States of America,White,No,NA,No,FALSE,FALSE,Not applicable to me,Jun-25,FALSE,No,N/A,No,No,No,Somewhat difficult,No,No,Physical health,No,5,2,Yes,N/A
+300,37,m,Estonia,NA,No,NA,No,FALSE,FALSE,Not applicable to me,26-100,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Maybe/Not sure,Physical health,Maybe,8,8,Maybe,Maybe
+301,42,Female,United Kingdom,NA,Yes,Yes,I don't know,TRUE,FALSE,Often,100-500,TRUE,Yes,No,Yes,Yes,Yes,Very easy,Yes,Maybe/Not sure,Physical health,Maybe,7,7,Yes,No
+302,34,Male,United States of America,Caucasian,Yes,Yes,I don't know,TRUE,FALSE,Sometimes,26-100,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,"Yes, I experienced",Physical health,Maybe,5,5,No,N/A
+303,35,Female,India,NA,No,NA,Yes,TRUE,FALSE,Rarely,More than 1000,TRUE,I don't know,No,Yes,Yes,I don't know,Difficult,Maybe,"Yes, I observed",Physical health,No,7,5,No,Yes
+304,28,male,Mexico,NA,Yes,Yes,No,TRUE,FALSE,Often,More than 1000,FALSE,Yes,No,No,No,I don't know,I don't know,Yes,No,Same level of comfort for each,No,10,0,No,Maybe
+305,26,Male,India,NA,No,NA,I don't know,TRUE,FALSE,Sometimes,26-100,TRUE,I don't know,No,No,No,I don't know,Somewhat easy,Yes,Maybe/Not sure,Same level of comfort for each,No,8,5,Yes,No
+306,34,F,India,NA,Don't Know,NA,No,FALSE,FALSE,Not applicable to me,100-500,FALSE,I don't know,No,No,No,No,Somewhat easy,No,No,Physical health,No,3,0,No,No
+307,28,NA,India,NA,No,NA,No,FALSE,FALSE,Rarely,More than 1000,TRUE,I don't know,No,No,No,I don't know,Somewhat difficult,No,"Yes, I experienced",Physical health,Maybe,9,1,No,Yes
+308,34,Female,United States of America,White,No,NA,Yes,TRUE,FALSE,Not applicable to me,100-500,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,"Yes, I observed",Physical health,No,7,7,Yes,No
+309,45,Male,Ireland,NA,No,NA,No,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I observed",NA,Maybe,NA,NA,NA,No
+310,59,Female,United Kingdom,NA,Possibly,NA,I don't know,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I experienced",NA,No,NA,NA,NA,Yes
+311,41,Male,United States of America,I prefer not to answer,Yes,Yes,Yes,TRUE,FALSE,Often,26-100,TRUE,I don't know,No,No,No,I don't know,Difficult,Maybe,"Yes, I experienced",Physical health,Maybe,3,0,Maybe,Yes
+312,38,NA,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,FALSE,Yes,No,I don't know,I don't know,Yes,Somewhat easy,Yes,Maybe/Not sure,Same level of comfort for each,Maybe,7,5,Yes,No
+313,42,Female,United States of America,White,No,NA,Yes,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,No,Physical health,Maybe,8,8,No,No
+314,21,Male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,100-500,TRUE,I don't know,N/A,No,I don't know,Yes,Very easy,Yes,No,Same level of comfort for each,No,6,8,Yes,No
+315,30,female,United States of America,White,No,NA,Yes,FALSE,FALSE,Not applicable to me,26-100,TRUE,Yes,Yes,Yes,No,Yes,Somewhat difficult,Yes,"Yes, I observed",Same level of comfort for each,No,9,3,Yes,No
+316,46,CIS Male,United States of America,White,Yes,Yes,No,TRUE,FALSE,Rarely,100-500,TRUE,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,No,Same level of comfort for each,Maybe,8,8,Yes,No
+317,36,female,United States of America,Black or African American,Yes,Yes,Yes,TRUE,TRUE,Rarely,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I observed",NA,No,NA,NA,NA,Yes
+318,41,Male,India,NA,No,NA,No,FALSE,FALSE,Never,More than 1000,TRUE,I don't know,Yes,No,No,Yes,Somewhat difficult,No,No,Physical health,Maybe,6,4,Maybe,No
+319,33,Female,Portugal,NA,Yes,Yes,No,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,No,NA,NA,NA,No
+320,41,m,Estonia,NA,Yes,Yes,No,TRUE,FALSE,Sometimes,01-May,TRUE,Yes,No,No,Yes,I don't know,Somewhat difficult,Maybe,"Yes, I observed",Physical health,Maybe,6,3,Yes,No
+321,25,Male,United Kingdom,NA,Possibly,NA,Yes,FALSE,FALSE,Often,More than 1000,FALSE,Yes,Yes,No,Yes,I don't know,Somewhat easy,No,No,Physical health,No,10,5,No,No
+322,27,agender,Germany,NA,Yes,Yes,Yes,TRUE,FALSE,Sometimes,Jun-25,TRUE,No,No,Yes,No,No,Somewhat difficult,Maybe,"Yes, I observed",Physical health,Maybe,4,3,No,Yes
+323,47,Female,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Never,More than 1000,TRUE,I don't know,No,Yes,Yes,I don't know,I don't know,Yes,"Yes, I experienced",Physical health,No,8,6,No,No
+324,24,Male,United States of America,White,Yes,Yes,I don't know,TRUE,FALSE,Not applicable to me,26-100,TRUE,Yes,Yes,No,I don't know,Yes,Somewhat easy,Maybe,No,Physical health,No,8,5,Yes,N/A
+325,40,male,United States of America,White,Yes,Yes,No,TRUE,FALSE,Often,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,Physical health,No,7,7,Maybe,No
+326,37,M,United States of America,White,No,NA,I don't know,TRUE,FALSE,Not applicable to me,100-500,TRUE,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,"Yes, I observed",Physical health,No,5,5,No,No
+327,38,Male,United States of America,White,Don't Know,NA,I don't know,FALSE,FALSE,Sometimes,More than 1000,TRUE,I don't know,No,No,Yes,I don't know,Somewhat easy,Maybe,"Yes, I observed",Physical health,Maybe,5,3,Yes,Yes
+328,47,Male,United States of America,White,No,NA,No,TRUE,FALSE,Rarely,More than 1000,TRUE,I don't know,No,I don't know,Yes,I don't know,Somewhat difficult,Yes,"Yes, I observed",Same level of comfort for each,No,2,0,Yes,No
+329,30,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,"Yes, I observed",Same level of comfort for each,No,5,5,Yes,Yes
+330,24,Female,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Often,26-100,FALSE,Not eligible for coverage / NA,N/A,No,No,I don't know,Somewhat difficult,Maybe,"Yes, I observed",Physical health,No,0,0,No,No
+331,38,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,Maybe/Not sure,Physical health,No,5,3,Maybe,Yes
+332,42,Male,Canada,NA,Yes,Yes,Yes,TRUE,FALSE,Rarely,Jun-25,TRUE,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,No,Same level of comfort for each,No,9,9,Yes,No
+333,39,Male,Greece,NA,No,NA,No,FALSE,FALSE,Not applicable to me,100-500,TRUE,No,No,No,No,I don't know,Very easy,No,Maybe/Not sure,Physical health,No,6,0,No,Yes
+334,42,Male,United States of America,White,Possibly,NA,I don't know,TRUE,FALSE,Rarely,More than 1000,TRUE,I don't know,No,No,I don't know,Yes,I don't know,No,No,Physical health,No,7,0,Maybe,N/A
+335,47,male,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Rarely,More than 1000,FALSE,Yes,Yes,No,I don't know,Yes,Very easy,Maybe,"Yes, I experienced",Physical health,No,10,8,Yes,No
+336,29,Male,Poland,NA,No,NA,No,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,Yes,Yes,No,No,Yes,I don't know,Yes,No,Physical health,No,7,1,Yes,No
+337,55,M,United States of America,More than one of the above,No,NA,Yes,FALSE,FALSE,Not applicable to me,More than 1000,TRUE,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,No,No,Physical health,No,7,2,No,No
+338,34,Non-binary and gender fluid,United States of America,I prefer not to answer,Yes,Yes,Yes,TRUE,FALSE,Rarely,500-1000,TRUE,I don't know,No,I don't know,I don't know,I don't know,Very easy,Maybe,"Yes, I experienced",Same level of comfort for each,No,5,5,Maybe,Yes
+339,45,Male,Japan,NA,No,NA,No,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe/Not sure,Physical health,Maybe,8,9,Yes,No
+340,46,male,United Kingdom,NA,No,NA,Yes,FALSE,FALSE,Not applicable to me,More than 1000,FALSE,I don't know,N/A,Yes,Yes,Yes,Neither easy nor difficult,No,No,Physical health,No,5,5,Maybe,Yes
+341,23,Female,India,NA,Possibly,NA,I don't know,FALSE,FALSE,Sometimes,More than 1000,FALSE,Yes,No,No,Yes,I don't know,Somewhat difficult,Yes,No,Physical health,No,7,1,No,N/A
+342,22,female,United States of America,White,Possibly,NA,Yes,TRUE,FALSE,Often,100-500,FALSE,No,No,No,No,No,Somewhat difficult,No,No,Physical health,No,5,6,No,Maybe
+343,30,Male,New Zealand,NA,Yes,Yes,Yes,TRUE,FALSE,Sometimes,26-100,TRUE,No,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,Maybe/Not sure,Physical health,Maybe,7,4,Maybe,No
+344,27,Male,United States of America,I prefer not to answer,Yes,Yes,I don't know,TRUE,TRUE,Sometimes,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I experienced",NA,No,NA,NA,NA,N/A
+345,42,Female,United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Often,100-500,TRUE,Yes,No,No,I don't know,I don't know,Somewhat difficult,No,Maybe/Not sure,Physical health,No,4,2,No,Yes
+346,26,Femile,Brazil,NA,No,NA,Yes,TRUE,FALSE,Sometimes,26-100,TRUE,Yes,No,No,No,Yes,Very easy,Yes,"Yes, I observed",Same level of comfort for each,Maybe,8,7,Yes,No
+347,31,female,United States of America,Asian,No,NA,No,FALSE,FALSE,Not applicable to me,Jun-25,TRUE,No,No,No,No,I don't know,Very easy,No,No,Physical health,No,8,5,Maybe,N/A
+348,27,male,India,NA,Possibly,NA,No,FALSE,FALSE,Sometimes,More than 1000,FALSE,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,"Yes, I observed",Physical health,No,5,5,No,Maybe
+349,48,m,United States of America,White,No,NA,No,FALSE,TRUE,Not applicable to me,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Yes, I observed",NA,Maybe,NA,NA,NA,N/A
+350,50,M,India,NA,No,NA,No,FALSE,TRUE,Never,NA,NA,NA,NA,NA,NA,NA,NA,NA,I've always been self-employed,NA,No,NA,NA,NA,N/A
+351,30,female,India,NA,Possibly,NA,No,FALSE,FALSE,Often,More than 1000,TRUE,No,No,No,No,Yes,Difficult,Maybe,Maybe/Not sure,Physical health,No,9,3,No,Yes
+352,24,Female (cis),United States of America,White,Yes,Yes,Yes,TRUE,FALSE,Sometimes,More than 1000,TRUE,Yes,Yes,No,Yes,Yes,Somewhat difficult,No,Maybe/Not sure,Physical health,Yes,5,3,Maybe,N/A
